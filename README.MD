@@ -2,7 +2,7 @@
 
 ### 1. Yarn install
 
-Using fs-extra to copy file: `yarn add fs-extra --dev`
+Using fs-extra to copy file: `yarn add fs-extra --dev` <br>
 Using chalk to log color please use version 4: `yarn add chalk@4 --dev`
 
 ### 2. Add script package.json
