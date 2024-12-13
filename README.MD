@@ -1,4 +1,4 @@
-#Guildline setup postbuild.js
+# Guildline setup postbuild.js
 
 ### 1. Yarn install
 
